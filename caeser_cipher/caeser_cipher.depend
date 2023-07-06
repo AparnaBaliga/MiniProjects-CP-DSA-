@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1688647611 source:d:\cse sem 3\c++\c\caeser_cipher\cc.c
-	<stdio.h>
-	<string.h>
-	<stdlib.h>
-	<ctype.h>
-
